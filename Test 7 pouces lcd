@@ -1,5 +1,11 @@
-First test lcd 7 pouces hd
+First test lcd 7 pouces hd with custom board stm32h7433II
 
+7.0-inch color screen, support 24BIT RGB 16.7M color display, display rich colors
+Support 1024x600 resolution screen switching, the display effect is very clear
+Support 24 bit RGB parallel bus transmission
+Compatible with RGB interface connection of punctual atomic development board and wildfire development board
+Use capacitive touch screen to support 5 touch points
 
+http://www.lcdwiki.com/Main_Page
 
 
